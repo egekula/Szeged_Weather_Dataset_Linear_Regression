@@ -9,3 +9,6 @@ Bu proje, Szeged hava durumu verilerini kullanarak **Hissedilen Sıcaklık** (Ap
 
 **Sonuçlar:**
 Model, **%99 R2 skoru** ile çok yüksek bir doğruluk oranına ulaşmıştır.
+
+**Kullanılan Dataset**
+* https://www.kaggle.com/datasets/budincsevity/szeged-weather
